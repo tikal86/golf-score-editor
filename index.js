@@ -5,6 +5,12 @@ const xml = require('xml2js');
 
 // const garminFile = fs.createReadStream('input/2017-04-30_14.33.51_Amstelborgh Amsterdam Golf Club.xml');
 // garminFile.pipe(process.stdout);
-const garminFile = fs.readFile('input/2017-04-30_14.33.51_Amstelborgh Amsterdam Golf Club.xml');
-console.log('garminFile: ' + garminFile);
-// const course = xml.parseString(garminFile);
+// const garminFile = fs.readFile('/input/2017-04-30_14.33.51_Amstelborgh Amsterdam Golf Club.xml');
+// console.log('garminFile: ' + garminFile);
+var parser = new xml.Parser();
+fs.readFile(__dirname + '/input/2017-04-30_14.33.51_Amstelborgh Amsterdam Golf Club.xml', function(err, data) {
+    parser.parseString(data, function (err, result) {
+        console.dir(result);
+        console.log('Done');
+    });
+});
