@@ -1,0 +1,21 @@
+{
+  "name": "golf-score-editor",
+  "version": "1.0.0",
+  "description": "Editor voor en golf scorekaart",
+  "main": "index.js",
+  "scripts": {
+    "start": "mongod --dbpath data --config mongo.conf && node server.jsw",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "golf",
+    "score",
+    "editor"
+  ],
+  "author": "Andre Hogenkamp",
+  "license": "ISC",
+  "dependencies": {
+    "mongojs": "^2.4.0",
+    "xml2js": "^0.4.17"
+  }
+}

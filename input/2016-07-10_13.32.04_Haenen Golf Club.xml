@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='../../GolfViewer/css/scorecard.xsl'?><Scorecard>
+  <Course>
+    <CourseIdGlobal>28656</CourseIdGlobal>
+    <CourseName>Haenen Golf Club</CourseName>
+    <CourseDate>July 10, 2016</CourseDate>
+    <CourseScoreType>0</CourseScoreType>
+    <CourseHandicap>0</CourseHandicap>
+    <CourseCounting>1</CourseCounting>
+    <CourseParOut>35</CourseParOut>
+    <CourseParIn>35</CourseParIn>
+    <CourseParTotal>70</CourseParTotal>
+    <CourseStartTime>837084724</CourseStartTime>
+    <CourseEndTime>837102994</CourseEndTime>
+    <CourseDistanceWalked>0.00</CourseDistanceWalked>
+    <CourseStandardStartTime>2016-07-10T13:32:04+02:00</CourseStandardStartTime>
+    <CourseStandardEndTime>2016-07-10T18:36:34+02:00</CourseStandardEndTime>
+    <CourseHole>
+      <HoleNumber>1</HoleNumber>
+      <HoleDistance>330.098419</HoleDistance>
+      <HolePar>4</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>2</HoleNumber>
+      <HoleDistance>353.538116</HoleDistance>
+      <HolePar>4</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>3</HoleNumber>
+      <HoleDistance>451.645569</HoleDistance>
+      <HolePar>5</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>4</HoleNumber>
+      <HoleDistance>152.258408</HoleDistance>
+      <HolePar>3</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>5</HoleNumber>
+      <HoleDistance>463.544861</HoleDistance>
+      <HolePar>5</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>6</HoleNumber>
+      <HoleDistance>393.543304</HoleDistance>
+      <HolePar>4</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>7</HoleNumber>
+      <HoleDistance>154.520142</HoleDistance>
+      <HolePar>3</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>8</HoleNumber>
+      <HoleDistance>176.212036</HoleDistance>
+      <HolePar>3</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>9</HoleNumber>
+      <HoleDistance>359.535370</HoleDistance>
+      <HolePar>4</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>10</HoleNumber>
+      <HoleDistance>99.057228</HoleDistance>
+      <HolePar>3</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>11</HoleNumber>
+      <HoleDistance>246.287994</HoleDistance>
+      <HolePar>4</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>12</HoleNumber>
+      <HoleDistance>170.665421</HoleDistance>
+      <HolePar>3</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>13</HoleNumber>
+      <HoleDistance>462.355927</HoleDistance>
+      <HolePar>5</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>14</HoleNumber>
+      <HoleDistance>299.514984</HoleDistance>
+      <HolePar>4</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>15</HoleNumber>
+      <HoleDistance>328.246033</HoleDistance>
+      <HolePar>4</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>16</HoleNumber>
+      <HoleDistance>328.210022</HoleDistance>
+      <HolePar>4</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>17</HoleNumber>
+      <HoleDistance>296.721405</HoleDistance>
+      <HolePar>4</HolePar>
+    </CourseHole>
+    <CourseHole>
+      <HoleNumber>18</HoleNumber>
+      <HoleDistance>319.592651</HoleDistance>
+      <HolePar>4</HolePar>
+    </CourseHole>
+  </Course>
+  <Player>
+    <PlayerName>Player1</PlayerName>
+    <PlayerOut>43</PlayerOut>
+    <PlayerIn>47</PlayerIn>
+    <PlayerRoundTot>90</PlayerRoundTot>
+    <PlayerFairways>5 out of 13 fairways hit</PlayerFairways>
+    <PlayerGIR>3 greens hit in regulation</PlayerGIR>
+    <PlayerPutts>35 total putts</PlayerPutts>
+    <PlayerHole>
+      <HoleNumber>1</HoleNumber>
+      <HoleScore>5</HoleScore>
+      <HoleStrokeScore>5</HoleStrokeScore>
+      <HolePutts>2</HolePutts>
+      <HoleFairwayHit>0</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>2</HoleNumber>
+      <HoleScore>5</HoleScore>
+      <HoleStrokeScore>5</HoleStrokeScore>
+      <HolePutts>2</HolePutts>
+      <HoleFairwayHit>0</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>3</HoleNumber>
+      <HoleScore>5</HoleScore>
+      <HoleStrokeScore>5</HoleStrokeScore>
+      <HolePutts>1</HolePutts>
+      <HoleFairwayHit>2</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>4</HoleNumber>
+      <HoleScore>3</HoleScore>
+      <HoleStrokeScore>3</HoleStrokeScore>
+      <HolePutts>1</HolePutts>
+      <HoleFairwayHit>3</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>5</HoleNumber>
+      <HoleScore>5</HoleScore>
+      <HoleStrokeScore>5</HoleStrokeScore>
+      <HolePutts>2</HolePutts>
+      <HoleFairwayHit>2</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>6</HoleNumber>
+      <HoleScore>6</HoleScore>
+      <HoleStrokeScore>6</HoleStrokeScore>
+      <HolePutts>3</HolePutts>
+      <HoleFairwayHit>1</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>7</HoleNumber>
+      <HoleScore>4</HoleScore>
+      <HoleStrokeScore>4</HoleStrokeScore>
+      <HolePutts>2</HolePutts>
+      <HoleFairwayHit>3</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>8</HoleNumber>
+      <HoleScore>5</HoleScore>
+      <HoleStrokeScore>5</HoleStrokeScore>
+      <HolePutts>2</HolePutts>
+      <HoleFairwayHit>3</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>9</HoleNumber>
+      <HoleScore>5</HoleScore>
+      <HoleStrokeScore>5</HoleStrokeScore>
+      <HolePutts>2</HolePutts>
+      <HoleFairwayHit>0</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>10</HoleNumber>
+      <HoleScore>4</HoleScore>
+      <HoleStrokeScore>4</HoleStrokeScore>
+      <HolePutts>2</HolePutts>
+      <HoleFairwayHit>3</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>11</HoleNumber>
+      <HoleScore>6</HoleScore>
+      <HoleStrokeScore>6</HoleStrokeScore>
+      <HolePutts>1</HolePutts>
+      <HoleFairwayHit>0</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>12</HoleNumber>
+      <HoleScore>4</HoleScore>
+      <HoleStrokeScore>4</HoleStrokeScore>
+      <HolePutts>2</HolePutts>
+      <HoleFairwayHit>3</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>13</HoleNumber>
+      <HoleScore>5</HoleScore>
+      <HoleStrokeScore>5</HoleStrokeScore>
+      <HolePutts>2</HolePutts>
+      <HoleFairwayHit>2</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>14</HoleNumber>
+      <HoleScore>5</HoleScore>
+      <HoleStrokeScore>5</HoleStrokeScore>
+      <HolePutts>1</HolePutts>
+      <HoleFairwayHit>0</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>15</HoleNumber>
+      <HoleScore>6</HoleScore>
+      <HoleStrokeScore>6</HoleStrokeScore>
+      <HolePutts>2</HolePutts>
+      <HoleFairwayHit>0</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>16</HoleNumber>
+      <HoleScore>6</HoleScore>
+      <HoleStrokeScore>6</HoleStrokeScore>
+      <HolePutts>2</HolePutts>
+      <HoleFairwayHit>2</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>17</HoleNumber>
+      <HoleScore>6</HoleScore>
+      <HoleStrokeScore>6</HoleStrokeScore>
+      <HolePutts>3</HolePutts>
+      <HoleFairwayHit>1</HoleFairwayHit>
+</PlayerHole>
+    <PlayerHole>
+      <HoleNumber>18</HoleNumber>
+      <HoleScore>5</HoleScore>
+      <HoleStrokeScore>5</HoleStrokeScore>
+      <HolePutts>3</HolePutts>
+      <HoleFairwayHit>2</HoleFairwayHit>
+</PlayerHole>
+  </Player>
+  <Text>
+    <ScorecardText>Scorecard</ScorecardText>
+    <BackText>Back</BackText>
+    <OutText>Out</OutText>
+    <InText>In</InText>
+    <TotalText>Total</TotalText>
+    <HandicapText>Handicap</HandicapText>
+    <ParText>Par</ParText>
+    <HoleText>Hole</HoleText>
+  </Text>
+</Scorecard>
