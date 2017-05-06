@@ -1,0 +1,11 @@
+Vuetify.js is a semantic component framework for Vue.js 2.
+https://vuetifyjs.com/?ref=madewithvuejs
+
+Desktop library
+http://element.eleme.io/?ref=madewithvuejs#/en-US
+
+vue-loader is a loader for Webpack that can transform Vue components written in the following format into a plain JavaScript module:
+http://vue-loader.vuejs.org/en/index.html
+
+Build responsive websites, hybrid mobile Apps (that look native!) and Electron apps using same code, with VueJs 2.
+http://quasar-framework.org/?ref=madewithvuejs
