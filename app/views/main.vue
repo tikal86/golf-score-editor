@@ -1,9 +1,9 @@
 <template lang="html">
     <div>
         <h1>{{title}}</h1>
-        <p>Welcome to the {{title}} demo. Click a link:</p>
-        <course :course="course"></course>
-        <users :users="users"></users>
+        <p>Welcome to the {{title}} editor</p>
+        <p>Baan: {{course}}</p>
+        <course :course="course" :holes="holes"></course>
 
     </div>
 </template>

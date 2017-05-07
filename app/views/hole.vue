@@ -1,8 +1,7 @@
 <template lang="html">
     <div>
-        <h1>{{ title }}</h1>
-        <p>{{user.name}}</p>
-        <p>I am {{user.age}} years old</p>
+        <h1>Hole {{hole.HoleNumber[0]}}</h1>
+        <p>Par {{hole.HolePar[0]}}</p>
     </div>
 </template>
 

@@ -1,8 +1,8 @@
 <template lang="html">
   <div class="">
       <ul>
-          <li v-for="user in users">
-              <a v-bind:href="'/users/' + user.name">{{ user.name }}</a>
+          <li v-for="hole in holes">
+              <a v-bind:href="'/holes/' + hole.HoleNumber">{{ hole.HoleNumber }}</a>
           </li>
       </ul>
   </div>
@@ -10,7 +10,7 @@
 
 <script>
 export default {
-    props: ['title', 'users']
+    props: ['title', 'holes']
 }
 </script>
 

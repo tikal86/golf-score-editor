@@ -1,4 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='../../GolfViewer/css/scorecard.xsl'?><Scorecard>
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='../../GolfViewer/css/scorecard.xsl'?>
+<Scorecard>
   <Course>
     <CourseIdGlobal>28577</CourseIdGlobal>
     <CourseName>Amstelborgh Amsterdam Golf Club</CourseName>
@@ -70,63 +71,63 @@
       <HoleStrokeScore>3</HoleStrokeScore>
       <HolePutts>2</HolePutts>
       <HoleFairwayHit>3</HoleFairwayHit>
-</PlayerHole>
+    </PlayerHole>
     <PlayerHole>
       <HoleNumber>2</HoleNumber>
       <HoleScore>3</HoleScore>
       <HoleStrokeScore>3</HoleStrokeScore>
       <HolePutts>2</HolePutts>
       <HoleFairwayHit>3</HoleFairwayHit>
-</PlayerHole>
+    </PlayerHole>
     <PlayerHole>
       <HoleNumber>3</HoleNumber>
       <HoleScore>3</HoleScore>
       <HoleStrokeScore>3</HoleStrokeScore>
       <HolePutts>2</HolePutts>
       <HoleFairwayHit>3</HoleFairwayHit>
-</PlayerHole>
+    </PlayerHole>
     <PlayerHole>
       <HoleNumber>4</HoleNumber>
       <HoleScore>4</HoleScore>
       <HoleStrokeScore>4</HoleStrokeScore>
       <HolePutts>2</HolePutts>
       <HoleFairwayHit>3</HoleFairwayHit>
-</PlayerHole>
+    </PlayerHole>
     <PlayerHole>
       <HoleNumber>5</HoleNumber>
       <HoleScore>255</HoleScore>
       <HoleStrokeScore>255</HoleStrokeScore>
       <HolePutts>255</HolePutts>
       <HoleFairwayHit>3</HoleFairwayHit>
-</PlayerHole>
+    </PlayerHole>
     <PlayerHole>
       <HoleNumber>6</HoleNumber>
       <HoleScore>4</HoleScore>
       <HoleStrokeScore>4</HoleStrokeScore>
       <HolePutts>2</HolePutts>
       <HoleFairwayHit>3</HoleFairwayHit>
-</PlayerHole>
+    </PlayerHole>
     <PlayerHole>
       <HoleNumber>7</HoleNumber>
       <HoleScore>3</HoleScore>
       <HoleStrokeScore>3</HoleStrokeScore>
       <HolePutts>1</HolePutts>
       <HoleFairwayHit>3</HoleFairwayHit>
-</PlayerHole>
+    </PlayerHole>
     <PlayerHole>
       <HoleNumber>8</HoleNumber>
       <HoleScore>3</HoleScore>
       <HoleStrokeScore>3</HoleStrokeScore>
       <HolePutts>2</HolePutts>
       <HoleFairwayHit>3</HoleFairwayHit>
-</PlayerHole>
+    </PlayerHole>
     <PlayerHole>
       <HoleNumber>9</HoleNumber>
       <HoleScore>4</HoleScore>
       <HoleStrokeScore>4</HoleStrokeScore>
       <HolePutts>3</HolePutts>
       <HoleFairwayHit>3</HoleFairwayHit>
-</PlayerHole>
+    </PlayerHole>
   </Player>
   <Text>
     <ScorecardText>Scorecard</ScorecardText>
