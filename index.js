@@ -46,7 +46,8 @@ app.get('/', function(req, res) {
         data: {
             title: pageTitle,
             course: course,
-            holes: holes
+            holes: holes,
+            nav2: false
         },
         vue: {
             head: {
