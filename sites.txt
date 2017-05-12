@@ -1,3 +1,7 @@
+https://vuejs.org/v2/guide/components.html
+
+https://nuxtjs.org/
+
 Vuetify.js is a semantic component framework for Vue.js 2.
 https://vuetifyjs.com/?ref=madewithvuejs
 

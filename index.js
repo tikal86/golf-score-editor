@@ -66,7 +66,7 @@ app.get('/', function(req, res) {
                     }]
                 }
             },
-            components: ['holes', 'course'],
+            components: ['holes', 'course', 'card'],
             mixins: [exampleMixin]
         }
     });
