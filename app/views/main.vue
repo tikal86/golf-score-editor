@@ -16,7 +16,7 @@
       </v-sidebar>
       <v-content>
         <v-container fluid>
-          <course :course="course" :holes="holes"></course>
+          <course :course="course" :holes="holes" :player="player"></course>
         </v-container>
       </v-content>
     </main>

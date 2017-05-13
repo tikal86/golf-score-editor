@@ -27,7 +27,7 @@ fs.readFile(__dirname + '/input/2017-04-30_14.33.51_Amstelborgh Amsterdam Golf C
       course = result.Scorecard.Course[0].CourseName[0];
       player = result.Scorecard.Player;
       holes = result.Scorecard.Course[0].CourseHole;
-      console.log(result.Scorecard.Course[0].CourseHole);
+      console.log(result.Scorecard.Player[0].PlayerHole[0].HoleScore[0]);
       console.log('Done');
     });
 });
@@ -47,7 +47,8 @@ app.get('/', function(req, res) {
             title: pageTitle,
             course: course,
             holes: holes,
-            nav2: false
+            nav2: false,
+            player: player
         },
         vue: {
             head: {
@@ -67,7 +68,7 @@ app.get('/', function(req, res) {
                     }]
                 }
             },
-            components: ['holes', 'course', 'card'],
+            components: ['holes', 'course', 'card', 'hole'],
             mixins: [exampleMixin]
         }
     });

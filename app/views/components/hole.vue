@@ -1,15 +1,13 @@
 <template lang="html">
     <div>
-        <h1>Hole {{hole.HoleNumber[0]}}</h1>
+        <p>Hole {{hole.HoleNumber[0]}}</p>
         <p>Par {{hole.HolePar[0]}}</p>
     </div>
 </template>
 
 <script>
 export default {
-    data: function() {
-        return {}
-    }
+  props: ['hole']
 }
 </script>
 
